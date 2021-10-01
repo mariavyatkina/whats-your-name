@@ -1,3 +1,9 @@
-# Can we guess your age based on your name? - Let's find out
+# Can we guess your age based on your name?
+This app is a practice for using a third party API in a React application
+#Technologies used
+React, Agify API
+# Check it Out
 See code live: https://whats-your-name.herokuapp.com/
-This app was created using React.js and public API https://api.agify.io/?name=maria
+# Features
+Enter your first name, click the button and we'll try to guess your age
+
